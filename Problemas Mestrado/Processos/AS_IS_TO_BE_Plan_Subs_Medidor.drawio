@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T20:46:42.216Z" agent="5.0 (Windows)" etag="mxbtJOryDqkxyLQdeZK3" version="21.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-04T20:48:23.582Z" agent="5.0 (Windows)" etag="ojK_yTvv457VefTiVNFE" version="21.0.2" type="github" pages="3">
   <diagram name="AS IS" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -257,7 +257,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IhILbxjatICdThepEMBQ" name="Variaveis">
-    <mxGraphModel dx="956" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,13 +303,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zm_WBuuer3XmYERxZB_Y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="FDosXykALLRxF3Eo5EBW-1" target="zm_WBuuer3XmYERxZB_Y-3">
+        <mxCell id="zm_WBuuer3XmYERxZB_Y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="FDosXykALLRxF3Eo5EBW-1" target="zm_WBuuer3XmYERxZB_Y-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zm_WBuuer3XmYERxZB_Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.008;exitY=0.58;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="FDosXykALLRxF3Eo5EBW-1" target="zm_WBuuer3XmYERxZB_Y-2">
+        <mxCell id="zm_WBuuer3XmYERxZB_Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.008;exitY=0.58;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="FDosXykALLRxF3Eo5EBW-1" target="zm_WBuuer3XmYERxZB_Y-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zm_WBuuer3XmYERxZB_Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FDosXykALLRxF3Eo5EBW-1" target="zm_WBuuer3XmYERxZB_Y-1">
+        <mxCell id="zm_WBuuer3XmYERxZB_Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FDosXykALLRxF3Eo5EBW-1" target="zm_WBuuer3XmYERxZB_Y-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="326" y="245" />
@@ -317,7 +317,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zm_WBuuer3XmYERxZB_Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FDosXykALLRxF3Eo5EBW-1" target="zm_WBuuer3XmYERxZB_Y-4">
+        <mxCell id="zm_WBuuer3XmYERxZB_Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FDosXykALLRxF3Eo5EBW-1" target="zm_WBuuer3XmYERxZB_Y-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="496" y="250" />
@@ -349,26 +349,26 @@
         <mxCell id="FDosXykALLRxF3Eo5EBW-17" value="Tipo de tarifa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="473" y="334" width="84" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zm_WBuuer3XmYERxZB_Y-1" value="Categoria do Imóvel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="zm_WBuuer3XmYERxZB_Y-1" value="Categoria do Imóvel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="211" y="258" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zm_WBuuer3XmYERxZB_Y-2" value="Alteração de titularidade" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="zm_WBuuer3XmYERxZB_Y-2" value="Alteração de titularidade" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="210" y="208" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zm_WBuuer3XmYERxZB_Y-3" value="Ocorrência de abastecimento" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="zm_WBuuer3XmYERxZB_Y-3" value="Ocorrência de abastecimento" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="516" y="125" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zm_WBuuer3XmYERxZB_Y-4" value="Volume total medido" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="zm_WBuuer3XmYERxZB_Y-4" value="Volume total medido" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="519" y="258" width="80" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="zm_WBuuer3XmYERxZB_Y-8" value="Vida útil" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="zm_WBuuer3XmYERxZB_Y-8" value="Vida útil" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="210" y="148" width="90" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="bTRrTnN0uMvNsOaMaW_R" name="TO BE">
-    <mxGraphModel dx="956" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
